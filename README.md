@@ -3,6 +3,13 @@
 ## Purpose
 Practice using git to contribute to GitHub projects (without fear of messing something up :) )
 
+### All hail those who have earned the **Practice Git Badge of Honor** <font size="1"> (badge coming soon)</font>
+------
+
+<a href="https://github.com/FCCColumbus/practice-git/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FCCColumbus/practice-git" />
+</a>
+
 ### How to use this repo (based on [this article](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/))
 1. **Get git**: 
 This article assumes you already know the steps to take to contribute to open source. If you don’t know, you may want to read [this article written by Maryna](https://rubygarage.org/blog/how-contribute-to-open-source-projects). This piece also assumes that you’ve already setup Git on your PC. If you haven’t, you may want to check the setting up Git [section of this article and do that first](https://help.github.com/en/articles/set-up-git).
@@ -12,6 +19,7 @@ This article assumes you already know the steps to take to contribute to open so
   - Initiate a command in your favortite IDE (interactive development environment) to `clone` the respository using the link you just copied.  Alternatively you can execute this command in the git bash prompt: ` git clone <the link you copied> `
 
 3. **Create your branch**: a branch is your personal working snapshop of the repository.  We base all our new branches from dev, so make sure you are creating your branch from the latest commit in dev.  To do this from git bash: `git checkout -b dev/<your-branch-name>`
+    - Alternately you can create a new branch from any other branch.  Just make sure you base the branch from /dev
 
 4. **Make sure everything is good**: Issue a `git status`.  You should see that you are currenly on your branch and your `Working tree is clean`
 
