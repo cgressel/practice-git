@@ -8,5 +8,5 @@ Instructions: Please add your bio to the team below. Be creative! We want to kno
 - [Nash Vador](nash-vador.md)
 - [Eric Plum](eric-plum.md)
 - [Cool Dude](new-member.md)
-
+- [Chris Gressel](chris-g.md)
 ---
